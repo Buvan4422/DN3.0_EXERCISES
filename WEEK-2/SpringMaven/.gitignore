@@ -1,0 +1,6 @@
+# Ignore target directories in all subfolders
+**/target/
+
+.vscode
+.exercise_1/
+***/test
