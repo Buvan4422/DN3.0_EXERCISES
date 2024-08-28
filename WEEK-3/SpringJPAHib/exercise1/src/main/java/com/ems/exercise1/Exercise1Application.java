@@ -1,4 +1,4 @@
-package com.ems.exercise1;
+package SpringJPAHib.exercise1.src.main.java.com.ems.exercise1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
